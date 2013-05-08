@@ -20,6 +20,13 @@ h1{
 
 <h1>Hey Look At Me!</h1>
 <p>hey guys</p>
+{% for post in site.posts %}
+<article>
+	<h2><a href="{{post.url}}">{{post.title}}</a></h2>
+	{{post.content}}
+</article>
+{% endfor %}
+
 </body>
 
 </html>

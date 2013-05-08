@@ -5,3 +5,4 @@
 I only just started using git and github. I was very attracted by the version control pormises by git. And so far it hasn't failed me as I stumble to commit more consistently.
 
 Come to think of it, this Journal.md and the random index page is on the gh-pages 'orphan' branch. Does that mean I would have commit history?
+
