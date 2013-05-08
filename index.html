@@ -6,22 +6,32 @@ title: pspEgg does jekyll pages
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=640px">
     <title>An Experiment with Github Pages</title>
 </head>
 
 <style type="text/css">
 body{
+	padding:0, 0.5em;
+	margin-bottom: 3em;
 	font-size:24px;
 	font-family:Georgia;
 }
 h1{
-	font-family:Avenir;
+	font-family:gill sans;
+}
+#yolk:hover{
+	fill="#FFA500";
+	stroke="#F47721";
+}
+#yolk{
+	fill="#000";
+	stroke="#000";
 }
 </style>
 
 <body>
-
+	{% include egg_svg.html %}
 <h1>Hey Look At Me!</h1>
 <p>hey guys</p>
 {% for post in site.posts %}
