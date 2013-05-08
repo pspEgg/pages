@@ -1,10 +1,4 @@
 ---
-published: false
-layout: default
-
----
-
----
 title: hey guys, It's prose.io!
 ---
 
