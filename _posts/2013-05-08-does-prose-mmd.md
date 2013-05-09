@@ -10,6 +10,8 @@ title: MMD Test
 
 ![does lone image become lone figure in a sea of paragraphs?](pspegg.co/jug.svg)
 
+[class="egg" span block]
+
 prose is telling me wait 30 seconds when I click save.[^2]
 
 [^1]: I'm a footnote.
