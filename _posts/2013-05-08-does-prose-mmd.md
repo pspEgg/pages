@@ -10,6 +10,8 @@ title: MMD Test
 
 ![does lone image become lone figure in a sea of paragraphs?](pspegg.co/jug.svg)
 
-[^1]: I'm a footnote.
+prose is telling me wait 30 seconds when I click save.[^2]
 
-prose is telling me wait 30 seconds when I click save.
+[^1]: I'm a footnote.
+[^2]: hmm.
+
